@@ -1,1 +1,1 @@
-# Digital_JBank
+# Digital JBank
